@@ -1,4 +1,4 @@
-gcc -o test test.c trie.c
+gcc -o test test.c src/trie.c
 ./test
 dot -Tpng trie.dot -o trie.png
 

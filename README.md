@@ -24,16 +24,14 @@ This repository contains a simple implementation of a Trie (prefix tree) data st
     chmod +x run.sh
     ./run.sh
     ```
-    ```bash
-    ./run.sh
-    ```
+    
 
 ## File Structure
 
 - `trie.c`: Contains the implementation of the Trie data structure.
 - `LICENSE`: License information for the repository.
-- `test.c`: Contains the test cases for the Trie operations.
-- `trie.h`: Header file for the Trie implementation.
+- `src/test.c`: Contains the test cases for the Trie operations.
+- `src/trie.h`: Header file for the Trie implementation.
 -  `run.sh`: Script to compile and run the code.
 - `README.md`: Documentation for the repository.
 

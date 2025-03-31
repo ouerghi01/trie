@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<stdlib.h>
-#include "trie.h"
+#include "src/trie.h"
 
 int main(int argc,char * argv[]) {
     Node * root = allocate_node();
